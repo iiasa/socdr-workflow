@@ -1,0 +1,27 @@
+- CDR Method:
+    - BECCS:
+        description: use of bioenergy (BE) in combination with carbon-capture and
+          sequestration (CCS)
+    - DAC(CS):
+        description: direct air capture in combination with carbon-capture and
+          sequestration (CCS)
+    - Soil Carbon:
+        description: soil carbon sequestration
+    - Afforestation and Reforestation:
+        description: afforestation and reforestation
+    - Restoration:
+        description: restoration of degraded lands
+    - Forest Management:
+        description: improved forest management
+    - Biochar:
+        description: use of biochar
+    - Enhanced Weathering:
+        description: enhanced weathering
+    - Ocean Alkalinity:
+        description: ocean alkalinity enhancement
+    - Blue Carbon:
+        description: carbon sequestration in coastal and marine ecosystems
+    - Ocean Fertilization:
+        description: ocean fertilization
+    - Other:
+        description: other carbon dioxide removal methods
