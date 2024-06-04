@@ -1,0 +1,15 @@
+- CDR Market Credit Type:
+     - Mixed (Mainly CDR):
+          description: carbon credits for carbon dioxide removal and avoided emissions
+              with the majority of credits from carbon dioxide removal
+     - Mixed (Mainly Avoided):
+         description: carbon credits for carbon dioxide removal and avoided emissions
+             with the majority of credits from avoided emissions
+     - Novel CDR:
+        description: carbon credits for novel carbon dioxide removal methods
+     - Conventional CDR:
+        description: carbon credits for conventional carbon dioxide removal methods
+     - Avoided Emissions:
+        description: carbon credits for avoided emissions
+     - Emission Reduction:
+        description: carbon credits for emission reductions

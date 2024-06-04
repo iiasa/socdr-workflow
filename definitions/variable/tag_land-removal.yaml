@@ -1,0 +1,7 @@
+- Land Removal:
+    - Land:
+        description: including conventional methods and removals due to indirect
+          carbon fluxes aligned with national greenhouse gas inventories
+    - Land|Indirect:
+        description: due to indirect carbon fluxes accounted for in national greenhouse
+          gas inventories but not by scientific models

@@ -1,2 +1,21 @@
-- common:
-  - World
+- Common:
+    - World
+
+- Regions:
+    - North America:
+        description: United States and Canada
+    - Europe
+    - Middle East
+    - Asia
+    - East Asia
+    - South Asia
+    - South East Asia
+    - Oceania
+    - Africa
+    - Sub Saharan Africa
+    - Latin America
+    - Carribean
+    - Central America
+    - South America
+    - Other
+    - Other/Not Disclosed

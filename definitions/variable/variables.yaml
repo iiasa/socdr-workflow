@@ -1,3 +1,380 @@
-- Emissions|CO2:
-    description: Total net emissions of carbon dioxide (CO2)
-    unit: Mt CO2/yr
+- Research|Removal|Active Grants:
+    description: Number of active grants related to carbon dioxide removal in general
+      or to any specific removal method or net-negative emissions technology
+    unit:
+- Research|Removal|Active Grants|General:
+    description: Number of active grants related to carbon dioxide removal
+      and negative-emissions technologies in general
+    unit:
+- Research|Removal|Active Grants|General [Share]:
+    description: Active grants related to carbon dioxide removal and negative-emissions
+      technologies in general computed as share of all relevant grants
+    unit: "%"
+- Research|Removal|Active Grants|{Novel CDR Method}:
+    description: Number of active grants related to {Novel CDR Method}
+    unit:
+- Research|Removal|Active Grants|{Novel CDR Method} [Share]:
+    description: Active grants related to {Novel CDR Method} computed as share of all
+      relevant publications
+    unit: "%"
+- Research|Removal|Active Grants|{Conventional CDR Method}:
+    description: Number of active grants related to {Conventional CDR Method}
+    unit:
+- Research|Removal|Active Grants|{Conventional CDR Method} [Share]:
+    description: Active grants related to {Conventional CDR Method} computed as share
+      of all relevant publications
+    unit: "%"
+- Research|Removal|Funding:
+    description: Amount of funding on active research grants related to carbon dioxide
+      removal in general or to any specific removal method or net-negative emissions technology
+    unit: million USD
+- Research|Removal|Funding|General:
+    description: Amount of funding on active research grants related to carbon dioxide
+      removal and negative-emissions technologies in general
+    unit: million USD
+- Research|Removal|Funding|{Novel CDR Method}:
+    description: Amount of funding on active research grants related to {Novel CDR Method}
+    unit: million USD
+- Research|Removal|Funding|{Conventional CDR Method}:
+    description: Amount of funding on active research grants related to {Conventional CDR Method}
+    unit: million USD
+- Research|Removal|Publications:
+    description: Number of publications related to carbon dioxide removal in general or
+      to any specific removal method or net-negative emissions technology
+    unit:
+- Research|Removal|Publications|General:
+    description: Number of general publications related to carbon dioxide removal
+      and negative-emissions technologies in general
+    unit:
+- Research|Removal|Publications|General [Share]:
+    description: General publications related to carbon dioxide removal and
+      negative-emissions technologies computed as share of all relevant publications
+    unit: "%"
+- Research|Removal|Publications|{Novel CDR Method}:
+    description: Number of publications related to {Novel CDR Method}
+    unit:
+- Research|Removal|Publications|{Conventional CDR Method}:
+    description: Number of publications related to {Conventional CDR Method}
+    unit:
+- Research|Removal|Publications|{Novel CDR Method} [Share]:
+    description: Publications related to {Novel CDR Method} computed as share over all
+      relevant publications
+    unit: "%"
+- Research|Removal|Publications|{Conventional CDR Method} [Share]:
+    description: Publications related to {Conventional CDR Method} computed as share over all
+      relevant publications
+    unit: "%"
+- Research|Mitigation|Patents:
+    description: Number of patents related to all climate change mitigation inventions
+      including carbon dioxide removal technologies
+    unit:
+- Research|Mitigation|Patents [relative to 2020]:
+    description: Number of patents related to all climate change mitigation inventions
+      including carbon dioxide removal technologies relative to 2020
+    unit:
+- Research|Removal|Patents:
+    description: Number of patents related to all carbon dioxide removal technologies
+    unit:
+- Research|Removal|Patents [relative to 2020]:
+    description: Number of patents related to all carbon dioxide removal technologies
+      relative to 2020
+    unit:
+- Research|Removal|Patents|{Novel CDR Method}:
+    description: Number of patents related to {Novel CDR Method}
+    unit:
+- Research|Removal|Patents|{Conventional CDR Method}:
+    description: Number of patents related to {Conventional CDR Method}
+    unit:
+
+- Start-Up|All Net-Zero Initiatives|Number of Firms:
+    description: Number of all net-zero initiatives start-up firms
+    unit:
+- Start-Up|Removal|Number of Firms:
+    description: Number of all CDR start-up firms
+    unit:
+- Start-Up|Removal|Number of Firms|{Novel CDR Method}:
+    description: Number of net-zero initiatives start-up firms related to {Novel CDR Method}
+    unit:
+- Start-Up|Removal|Number of Firms|{Conventional CDR Method}:
+    description:  Number of net-zero initiatives start-up firms related to {Conventional CDR Method}
+    unit:
+
+- Start-Up|All Net-Zero Initiatives|Deals:
+    description: Number of deals related to all net-zero initiatives start-ups
+    unit:
+- Start-Up|Removal|Deals:
+    description: Number of deals related to carbon dioxide removal
+    unit:
+- Start-Up|Removal|Deals|{Novel CDR Method}:
+    description: Number of deals related to {Novel CDR Method}
+    unit:
+- Start-Up|Removal|Deals|{Conventional CDR Method}:
+    description: Number of deals related to {Conventional CDR Method}
+    unit:
+- Start-Up|Removal|Deals|{Novel CDR Method}|{Deal Type} [Share]:
+    description: Share of {Deal Type} deals related to {Novel CDR Method}
+      relative to total number of deals
+    unit: "%"
+- Start-Up|Removal|Deals|{Conventional CDR Method}|{Deal Type} [Share]:
+    description: Share of {Deal Type} deals related to {Conventional CDR Method}
+      relative to total number of deals
+    unit: "%"
+
+- Start-Up|All Net-Zero Initiatives|Funding:
+    description: Amount of investment in all net-zero initiatives start-ups
+    unit: billion USD
+- Start-Up|Removal|Funding:
+    description: Amount of investment in CDR start-ups
+    unit: billion USD
+- Start-Up|Removal|Funding|{Novel CDR Method}:
+    description: Amount of investment in start-ups related to {Novel CDR Method}
+    unit: billion USD
+- Start-Up|Removal|Funding|{Conventional CDR Method}:
+    description: Amount of investment in start-ups related to {Conventional CDR Method}
+    unit: billion USD
+
+- Carbon Credits|Active Projects:
+    description: Number of active projects in the voluntary carbon removal market
+    unit:
+- Carbon Credits|Active Projects|{Project Category}:
+    description: Number of active projects in the voluntary carbon removal market
+      that use {Project Category}
+    unit:
+- Carbon Credits|Novel CDR|Tons Sold:
+    description: Credits sold (purchased) in the voluntary carbon removal market
+      using novel CDR methods, measured in terms of carbon removed
+    unit: Mt CO2
+- Carbon Credits|Novel CDR|Tons Sold|{Novel CDR Method}:
+    description: Credits sold (purchased) in the voluntary carbon removal market
+      using {Novel CDR Method}, measured in terms of carbon removed
+    unit: Mt CO2
+- Carbon Credits|Novel CDR|Tons Sold|Not Disclosed:
+    description: Credits sold (purchased) in the voluntary carbon removal market
+      where the removal method was not disclosed, measured in terms of carbon removed
+    unit: Mt CO2
+- Carbon Credits|Novel CDR|Tons Delivered:
+    description: Credits delivered in the voluntary carbon removal market
+      using novel CDR methods, measured in terms of carbon removed
+    unit: Mt CO2
+- Carbon Credits|Novel CDR|Tons Delivered|{Novel CDR Method}:
+    description: Credits delivered in the voluntary carbon removal market
+      using {Novel CDR Method}, measured in terms of carbon removed
+    unit: Mt CO2
+- Carbon Credits|Novel CDR|Tons Delivered|Not Disclosed:
+    description: Credits delivered in the voluntary carbon removal market
+      where the removal method was not disclosed, measured in terms of carbon removed
+    unit: Mt CO2
+- Carbon Credits|Conventional CDR|Tons Issued:
+    description: Credits issued in the voluntary carbon removal market
+      using conventional CDR methods, measured in terms of carbon removed
+    unit: Mt CO2
+- Carbon Credits|Conventional CDR|Tons Issued|{Conventional CDR Method}:
+    description: Credits issued in the voluntary carbon removal market
+      using {Conventional CDR Method}, measured in terms of carbon removed
+    unit: Mt CO2
+- Carbon Credits|Conventional CDR|Tons Sold:
+    description: Credits sold (retired) in the voluntary carbon removal market
+      using conventional CDR methods
+    unit: Mt CO2
+- Carbon Credits|Conventional CDR|Tons Sold|{Conventional CDR Method}:
+    description: Credits sold (retired) in the voluntary carbon removal market
+      using {Conventional CDR Method}, measured in terms of carbon removed
+    unit: Mt CO2
+
+- Planned Projects|Removal:
+    description: Planned near-term projects for carbon dioxide removal
+    unit: Mt CO2
+- Planned Projects|Removal|{Novel CDR Method}:
+    description: Planned near-term projects for carbon dioxide removal using {Novel CDR Method}
+    unit: Mt CO2
+- Planned Projects|Removal|{Conventional CDR Method}:
+    description: Planned near-term projects for carbon dioxide removal using {Conventional CDR Method}
+    unit: Mt CO2
+
+- Company Announcements|Removal:
+    description: Publicly announced long-term company ambitions for carbon dioxide removal
+    unit: Mt CO2
+- Company Announcements|Removal|{Novel CDR Method}:
+    description: Publicly announced long-term company ambitions for carbon dioxide removal
+      using {Novel CDR Method}
+    unit: Mt CO2
+- Company Announcements|Removal|{Conventional CDR Method}:
+    description: Publicly announced long-term company ambitions for carbon dioxide removal
+      using {Conventional CDR Method}
+    unit: Mt CO2
+
+- Emissions|CO2 [{Percentile}]:
+    description: Carbon dioxide (CO2) emissions given as the {Percentile} of a scenario
+      ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Gross Emissions|Kyoto Gases [change from modelled 2020]:
+    description: Total emissions of Kyoto gases, including CO2, CH4, N2O and F-gases,
+      computed as difference from modelled values in 2020
+    unit: Gt CO2e/yr
+- Gross Emissions|Kyoto Gases [change from modelled 2020][{Percentile}]:
+    description: Total emissions of Kyoto gases, including CO2, CH4, N2O and F-gases,
+      computed as difference from modelled values in 2020 given as the {Percentile} of
+      a scenario ensemble
+    unit: Gt CO2e/yr
+
+- Carbon Removal:
+    description: Total carbon removal
+    unit: Gt CO2/yr
+- Carbon Removal [change from modelled 2020]:
+    description: Total carbon removal computed as difference from modelled values in 2020
+    unit: Gt CO2/yr
+
+- Carbon Removal [{Percentile}]:
+    description: Total carbon removal as reported by each model, given as the
+      {Percentile} of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Removal [change from modelled 2020][{Percentile}]:
+    description: Total carbon removal as reported by each model computed as difference
+      from modelled values in 2020, given as the {Percentile} of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Removal|Novel:
+    description: Carbon removal using novel technologies
+    unit: Gt CO2/yr
+- Carbon Removal|Novel [{Percentile}]:
+    description: Carbon removal using novel technologies as reported by each model,
+      given as the {Percentile} of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Removal|Novel [change from modelled 2020]:
+    description: Carbon removal using novel technologies computed as difference from
+      modelled values in 2020
+    unit: Gt CO2/yr
+- Carbon Removal|Novel [change from modelled 2020][{Percentile}]:
+    description: Carbon removal using novel technologies as reported by each model
+      computed as difference from modelled values in 2020, given as the {Percentile} of
+      a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Removal|Novel|{Novel CDR Method}:
+    description: Carbon removal using {Novel CDR Method}
+    unit: Gt CO2/yr
+- Carbon Removal|Novel|Other:
+    description: Carbon removal using other novel methods
+    unit: Gt CO2/yr
+- Carbon Removal|Conventional:
+    description: Carbon removal using conventional methods (on land), excluding shifting
+      cultivation
+    unit: Gt CO2/yr
+- Carbon Removal|Conventional [{Percentile}]:
+    description: Carbon removal using conventional methods (on land), excluding shifting
+      cultivation, given as the {Percentile} of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Removal|Conventional [change from modelled 2020]:
+    description: Carbon removal using conventional methods (on land), excluding shifting
+      cultivation, computed as difference from modelled values in 2020
+    unit: Gt CO2/yr
+- Carbon Removal|Conventional [change from modelled 2020][{Percentile}]:
+    description: Carbon removal using conventional methods (on land), excluding shifting
+      cultivation, computed as difference from modelled values in 2020, given as the
+      {Percentile} of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+
+- Carbon Flux|Conventional CDR [{Land Model}]:
+    description: Carbon flux from conventional CDR as reported by the '{Land Model}'
+    unit: Gt CO2/yr
+- Carbon Flux|Conventional CDR [Model-Adjusted Inventories][{Percentile}]:
+    description: Carbon flux from conventional CDR using national greenhouse gas
+      inventories (NGHGI) adjusted by dynamic global vegetation models (DGVM)
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+
+- Carbon Flux [Land] [{Percentile}]:
+    description: Carbon flux on land as reported by each model, given as the {Percentile}
+      of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Flux [Land]|Carbon Removal [{Percentile}]:
+    description: Carbon removal on land as reported by each model, given as the {Percentile}
+      of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Flux [Land]|Indirect [{Percentile}]:
+    description: Indirect carbon flux on land as reported by each model, given as the
+      {Percentile} of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+
+- Social Media|Number of Tweets:
+    description: Number of "tweets" about carbon dioxide removal
+    unit: thousand
+- Social Media|Number of Tweets|General CDR:
+    description: Number of "tweets" about carbon dioxide removal that are not specific
+      to a particular method
+    unit: thousand
+- Social Media|Number of Tweets|{Novel CDR Method}:
+    description: Number of "tweets" about {Novel CDR Method}
+    unit: thousand
+- Social Media|Number of Tweets|{Conventional CDR Method}:
+    description: Number of "tweets" about {Conventional CDR Method}
+    unit: thousand
+
+- Newspapers|All Publications|Number of Articles:
+    description: Number of newspaper articles about carbon dioxide removal across
+      all studied publications
+    unit:
+- Newspapers|All Publications|Number of Articles|General CDR:
+    description: Number of newspaper articles about carbon dioxide removal that are not
+      specific to a particular method across all studied publications
+    unit:
+- Newspapers|All Publications|Number of Articles|{Novel CDR Method}:
+    description: Number of newspaper articles about {Novel CDR Method} 
+      specific to a particular method across all studied publications
+    unit:
+- Newspapers|All Publications|Number of Articles|{Conventional CDR Method}:
+    description: Number of newspaper articles about {Conventional CDR Method}
+    unit:
+- Newspapers|{Newspaper}|Number of Articles:
+    description: Number of articles about carbon dioxide removal in the {Newspaper}
+    unit:
+- Newspapers|{Newspaper}|Number of Articles|General CDR:
+    description: Number of newspaper articles about carbon dioxide removal that are not
+      specific to a particular method in the {Newspaper}
+    unit:
+- Newspapers|{Newspaper}|Number of Articles|{Novel CDR Method}:
+    description: Number of newspaper articles about {Novel CDR Method} in the {Newspaper}
+    unit:
+- Newspapers|{Newspaper}|Number of Articles|{Conventional CDR Method}:
+    description: Number of newspaper articles about {Conventional CDR Method} in the {Newspaper}
+    unit:
+
+- Monitoring, Verification and Reporting|Protocols Developed:
+    description: Potocols developed for monitoring, verification, and reporting (MVR)
+      of carbon dioxide removal
+    unit:
+- Monitoring, Verification and Reporting|Protocols Developed|Cross-Method Protocol:
+    description: Potocols developed for monitoring, verification, and reporting (MVR)
+      of carbon dioxide removal that are relevant across methods
+    unit:
+- Monitoring, Verification and Reporting|Protocols Developed|Carbon Capture and Storage:
+    description: Potocols developed for monitoring, verification, and reporting (MVR)
+      of carbon dioxide removal using any form of carbon capture and storage (CCS)
+    unit:
+- Monitoring, Verification and Reporting|Protocols Developed|{Novel CDR Method}:
+    description: Potocols developed for monitoring, verification, and reporting (MVR)
+      of carbon dioxide removal using {Novel CDR Method}
+    unit:
+- Monitoring, Verification and Reporting|Protocols Developed|{Conventional CDR Method}:
+    description: Potocols developed for monitoring, verification, and reporting (MVR)
+      of carbon dioxide removal using {Conventional CDR Method}
+    unit:

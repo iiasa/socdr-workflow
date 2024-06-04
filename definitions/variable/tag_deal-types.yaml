@@ -1,0 +1,9 @@
+- Deal Type:
+    - Grant:
+        description: grant
+    - Seed:
+        description: seed funding
+    - Series A or B:
+        description: series A or B funding
+    - Growth Equity:
+        description: growth equity

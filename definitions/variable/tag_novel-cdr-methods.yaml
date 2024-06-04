@@ -1,0 +1,29 @@
+- Novel CDR Method:
+    - Biochar:
+        description: use of biochar
+    - Bio-Oil Storage:
+        description: use of bio-oil
+    - Bioenergy with CCS and Direct Air Capture with CCS:
+        description: use of bioenergy and direct air capture in combination with
+          carbon-capture and sequestration (CCS)
+    - Bioenergy with CCS:
+        description: use of bioenergy in combination with carbon-capture and
+          sequestration (CCS)
+    - Direct Air Capture with CCS:
+        description: direct air capture in combination with carbon-capture and
+          sequestration (CCS)
+    - Enhanced Weathering:
+        description: application of alkalinity to increase CO2 uptake on land
+    - Mineral Products:
+        description: use of mineral products for carbon sequestration
+    - Biomass Burial:
+        description: burial of biomass on land
+    - Ocean Fertilization:
+        description: ocean fertilization and artificial upwelling
+    - Biomass Sinking:
+        description: sinking of biomass in the ocean
+    - Ocean Alkalinity Enhancement:
+        description: ocean alkalinity enhancement
+    - Direct Ocean Capture:
+        description: direct capture of CO2 from the ocean in combination with
+          carbon sequestration (CCS)

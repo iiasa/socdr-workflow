@@ -1,0 +1,9 @@
+- Project Category:
+    - Conventional CDR:
+        description: conventional carbon dioxide removal methods
+    - Novel CDR:
+        description: novel carbon dioxide removal methods
+    - Mixed (Mainly CDR):
+        description: mainly CDR methods, but also including avoided emissions
+    - Mixed (Mainly Avoided):
+        description: mainly avoided emissions, but also including CDR methods
